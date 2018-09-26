@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="transparent">#0000</color>
+    <color name="dark_overlay">#80000000</color>
+    <color name="white_overlay">#80FFFFFF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="app_color">#158BB5</color>
+    <color name="me_options_text_color">#1d1d26</color>
+    <color name="playground_data_background">#F4F4F4</color>
+    <color name="black_shad">#80000000</color>
+
+    <color name="grey">#d8d7d5</color>
+    <color name="text">#ff221f1f</color>
+    <color name="text_subdued">#ff615e5c</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="window_bg">#ffd4cece</color>
+    <color name="logout_bottom_text_color">#434343</color>
+    <color name="lobin_color">#595A5C</color>
+    <color name="blue">#0B62E0</color>
+    <color name="desc">#88878A</color>
+    <color name="grey_bg">#E5E5E5</color>
+
+    <color name="super_light_black">#30000000</color>
+    <color name="radio_blue">#128BB4</color>
+    <color name="bottom_bar_dark">#555559</color>
+    <color name="hint_color">#AAAAAA</color>
+    <color name="login_diff_line_color">#F3F3F3</color>
+    <color name="edit_profile_background">#F8F8F8</color>
+
+    <color name="signup_button_background_color">#EEEEEE</color>
+    <color name="forgot_password_color">#BEBEBE</color>
+    <color name="dont_have_account_color">#BABABA</color>
+    <color name="red">#ff0000</color>
+    <color name="btn_pay_red">#D5301A</color>
+    <color name="btn_pay_green">#77BB40</color>
+    <color name="light_gray">#d4d4d4</color>
+    <color name="horizontal_line_color">#363838</color>
+
+    <color name="bg_chat_blue">#e46ca0b3</color>
+
+    <color name="bg_discover_white">#A6F6F1ED</color>
+    <color name="app_color_tp">#E6158BB5</color>
+    <color name="accept_green">#77BB40</color>
+    <color name="decline_red">#FF2603</color>
+    <color name="red_shade">#ae1614</color>
+
+    <color name="multiStateButtonPressed">#80ff8400</color>
+    <color name="multiStateButtonDisabled">#c1636363</color>
+
+    <color name="controlButtonPressed">#80ff8400</color>
+    <color name="spgrey">#ECECEC</color>
+</resources>

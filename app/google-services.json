@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "96937627197",
+    "firebase_url": "https://sharecare-1520693035436.firebaseio.com",
+    "project_id": "sharecare-1520693035436",
+    "storage_bucket": "sharecare-1520693035436.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96937627197:android:dc862c902b5f2003",
+        "android_client_info": {
+          "package_name": "project.labs.avviotech.com.sharecare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96937627197-tlms8hmqur81o4icquaqb0l2a76pngss.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "project.labs.avviotech.com.sharecare",
+            "certificate_hash": "f4e1179b77f1ca29bd10aa1cc84fa88abddeda7a"
+          }
+        },
+        {
+          "client_id": "96937627197-1o4i1m5imoggnr2e26p0suo5ne8g5r79.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6NixqjYEYvoSfabJXltUFcHUqmenpNM0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96937627197-1o4i1m5imoggnr2e26p0suo5ne8g5r79.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

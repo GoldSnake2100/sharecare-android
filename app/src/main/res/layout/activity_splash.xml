@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:background="#FFFFFF"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/splshScreen1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="50dp"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorPrimary"
+            android:text="SHARE"
+            android:textSize="20dp"
+            android:textAlignment="center"
+            android:gravity="center_horizontal"
+            android:layout_centerHorizontal="true"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@android:color/holo_red_dark"
+            android:text="CARE"
+            android:textSize="20dp"
+            android:textAlignment="center"
+            android:gravity="center_horizontal"
+            android:layout_centerHorizontal="true"/>
+
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="100dp"
+        android:src="@drawable/familylogo"
+        android:layout_centerInParent="true"
+        android:layout_height="100dp"
+        android:id="@+id/familylogo"
+        android:scaleType="centerInside"
+        android:layout_below="@+id/splshScreen1"/>
+
+
+
+    <ImageView
+        android:layout_width="200dp"
+        android:src="@drawable/logo"
+        android:layout_centerInParent="true"
+        android:layout_height="200dp"
+        android:id="@+id/splshScreen"
+        android:scaleType="centerInside"
+        android:layout_below="@id/familylogo"/>
+
+    <TextView
+        android:id="@+id/crs"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/colorPrimary"
+        android:text="CRS MONITOR"
+        android:textSize="20dp"
+        android:layout_marginTop="50dp"
+        android:layout_below="@id/splshScreen"
+        android:textAlignment="center"
+        android:gravity="center_horizontal"
+        android:layout_centerHorizontal="true"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/holo_green_dark"
+        android:text="by Quobii"
+        android:textSize="15dp"
+        android:paddingRight="10dp"
+        android:textAlignment="center"
+        android:gravity="bottom"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"/>
+
+</RelativeLayout>
